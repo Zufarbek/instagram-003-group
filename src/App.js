@@ -5,6 +5,12 @@ function App() {
   return (
     <div className="App">
       Salom Dunyo!
+      <h1>
+        Nima gap?
+      </h1>
+      <div>
+        <img src="https://picsum.photos/400" alt="" />
+      </div>
     </div>
   );
 }

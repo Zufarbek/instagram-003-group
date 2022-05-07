@@ -1,0 +1,7 @@
+git clone https://github.com/Zufarbek/instagram-003-group.git => clone qilib olish projectni
+git branch => branch listi ya'ni ro'yxatini
+git branch branch_nomi => yangi branch ochish
+git branch -d branch_nomi => branchni o'chirish
+git checkout main => main branchga o'tish
+git push origin branch_nomi => branch_nomi ni gitga qo'shadigit checkout main
+git push origin -m branch_nomi => branch_nomi ga o'zgarishlarni qo'shadi
