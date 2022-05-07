@@ -1,0 +1,3 @@
+git clone https://github.com/Zufarbek/instagram-003-group.git => clone qilib olish projectni
+git branch => branch listi ya'ni ro'yxatini
+git branch branch_nomi => yangi branch ochish
