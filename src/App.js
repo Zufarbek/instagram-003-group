@@ -4,10 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Salom Dunyo!
+      Assalomu alaykum
       <h1>
         Nima gap?
       </h1>
+      <div>
+        men master_zetdaman
+      </div>
       <div>
         <img src="https://picsum.photos/400" alt="" />
       </div>
