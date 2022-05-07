@@ -9,6 +9,9 @@ function App() {
         Nima gap?
       </h1>
       <div>
+        Men maindaman
+      </div>
+      <div>
         <img src="https://picsum.photos/400" alt="" />
       </div>
     </div>
